@@ -1,7 +1,7 @@
 # Tracey_Experimental_Bin_File
 Experimental Binary File for Tracey Drawing machine
 
-VE.05
+VE.07
 
 If Tracey fails to connect to WiFi it will create an access point called: TraceyAccessPoint with password: TraceyAP
 
